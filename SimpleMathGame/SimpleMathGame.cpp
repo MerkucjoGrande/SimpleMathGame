@@ -90,7 +90,7 @@ char sWhatAction(int nRandomInt)
 		break;
 	}
 	}
-}
+
 
 void ShowPoint()
 {
