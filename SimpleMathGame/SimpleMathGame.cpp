@@ -18,8 +18,8 @@ int main(void)
 	srand(time(NULL));
 	system("title Super Math Game! - By John \"Pepga315\" Bielawa");
 	std::cout << "Hello and welcome to my first official C++ project!\n";
-	std::cout << "The idea of this project is simple - the program will show you calculation and you will have to guess the right answer.\n";
-	std::cout << "Every time the answer problem is shown you will get a shor period of time to calculate it.\n";
+	std::cout << "The idea of this project is simple - the program will show you a calculation and you will have to guess the right answer.\n";
+	std::cout << "Every time the answer problem is shown you will get a short period of time to calculate it.\n";
 	std::cout << "Best of luck!\n";
 	_getch();
 	system("cls");
